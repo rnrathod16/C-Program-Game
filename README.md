@@ -5,7 +5,7 @@
 
 Steps :-
 
-- 1.Clone this repository using Git clone 
+- 1.Clone this repository using Git clone https://github.com/rnrathod16/C-Program-Game.git
 - 2.Compile the program in IDE or Terminal
 - 3.Execute the Program and Play
 
